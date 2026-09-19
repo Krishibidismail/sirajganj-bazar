@@ -9,8 +9,8 @@
 ## 🏢 About The Project
 Sirajganj Bazar is a trusted e-commerce marketplace in Bangladesh offering groceries, fashion, electronics, fresh food, and daily essentials with secure payment and fast delivery.
 
-- **Sub-Organizations:** Tati Bazar, Gheewala Brand
-- **My Role:** Founder & Lead Full Stack Developer
+- **Sub-Brand:** Tati Bazar, Gheewala Brand
+- **My Role:** Lead Full Stack Developer
 
 ### 🎯 Project Vision & Goals
 - Build a scalable online marketplace for local and regional products.
